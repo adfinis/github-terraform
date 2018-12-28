@@ -7,4 +7,5 @@ module "repo" {
   source = "./modules/repository"
 
   repo_list = "${var.repo_list}"
+  team_list = "${var.team_list}"
 }
