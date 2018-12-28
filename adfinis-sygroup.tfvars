@@ -1,3 +1,5 @@
+github_orga = "adfinis-sygroup"
+
 team_list = [
   {
     name        = "Employees"
